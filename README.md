@@ -3,6 +3,8 @@ The first MATLAB script (input_files.m) can be used to create the input files fo
 
 ![](Fig%201.png)
 
+<img src="Fig%201.png" width="100">
+
 The second MATLAB script (stress_strain.m) can be used to plot the stress-strain curve shown below.
 
 ![](Fig%202.png)
