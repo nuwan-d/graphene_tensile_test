@@ -3,7 +3,7 @@ The first MATLAB script (input_files.m) can be used to create the input files fo
 
 <img src="Fig%201.png" width="300">
 
-The second MATLAB script (stress_strain.m) can be used to plot the stress-strain curve shown below.
+The second MATLAB script (stress_strain.m) can be used to plot the stress-strain curve shown below. Remove the initial part of the log. lammps file if you want to use the stress_strain.m directly.
 
 <img src="Fig%202.png" width="300">
 
